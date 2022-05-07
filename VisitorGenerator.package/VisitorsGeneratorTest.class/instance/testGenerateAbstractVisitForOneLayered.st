@@ -1,3 +1,0 @@
-testBase
-testGenerateAbstractVisitForOneLayered
-	visitorGenerator := VisitorsGenerator new

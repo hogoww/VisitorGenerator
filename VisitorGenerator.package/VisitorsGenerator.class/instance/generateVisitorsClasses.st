@@ -1,0 +1,5 @@
+generatingClasses
+generateVisitorsClasses
+	self generateAbstractVisitorClass.
+		self generateSubclassResponsibilityVisitorClass.
+		self generateSuperclassVisitorClass.

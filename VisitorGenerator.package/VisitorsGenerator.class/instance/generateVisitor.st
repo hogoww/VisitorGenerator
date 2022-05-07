@@ -1,4 +1,0 @@
-generation
-generateVisitor
-	self generateVisitorClass.
-	self generatorVisitMethods
