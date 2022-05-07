@@ -1,0 +1,4 @@
+testBase
+testOneLayerHierarchyHasNoSubclasses
+	self setUpOneLayerHierarchy.
+	self assert: rootClass allSubclasses isEmpty

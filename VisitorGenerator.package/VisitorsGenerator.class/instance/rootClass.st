@@ -1,0 +1,4 @@
+accessing
+rootClass
+
+	^ rootClass

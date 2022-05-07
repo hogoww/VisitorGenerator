@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "VisitorGenerator-ressource",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rootClass",
+		"classes",
+		"visitorGenerator"
+	],
+	"name" : "VisitorsGeneratorTest",
+	"type" : "normal"
+}

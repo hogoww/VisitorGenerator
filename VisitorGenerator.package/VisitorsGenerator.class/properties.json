@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "VisitorGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rootClass",
+		"visitorClass"
+	],
+	"name" : "VisitorsGenerator",
+	"type" : "normal"
+}

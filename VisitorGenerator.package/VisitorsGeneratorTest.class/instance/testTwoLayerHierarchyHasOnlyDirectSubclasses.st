@@ -1,0 +1,4 @@
+testBase
+testTwoLayerHierarchyHasOnlyDirectSubclasses
+	self setUpTwoLayersHierarchy .
+	self assert: rootClass allSubclasses equals: rootClass subclasses asOrderedCollection
