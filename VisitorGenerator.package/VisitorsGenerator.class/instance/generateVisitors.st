@@ -1,4 +1,4 @@
-cleanup
+api
 generateVisitors
 	rootClass ifNil: [ ^ self ].
 	self generateVisitorsClasses.

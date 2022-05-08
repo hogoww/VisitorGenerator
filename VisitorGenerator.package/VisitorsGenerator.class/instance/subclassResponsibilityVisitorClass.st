@@ -1,0 +1,4 @@
+accessing
+subclassResponsibilityVisitorClass
+
+	^ subclassResponsibilityVisitorClass
